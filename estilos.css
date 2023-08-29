@@ -1,0 +1,166 @@
+.container-fluid{
+  background-color: #EDE6DA;
+  
+}
+
+.container-fluid{
+ height: 150px;
+}
+#url a { 
+  font-size: 300px; }
+
+ 
+  .item img:hover {
+      transform: scale(1.5);
+      transition: transform 0.5s ease; 
+
+
+    }
+    
+.card-body{
+      height: 150px
+      
+  }
+  img{
+      object-fit: cover;
+      width:50%;
+      height:50%;
+    }
+
+.h1{
+      object-fit: cover;
+      width:90px;
+      height:90px;
+
+    }
+
+.card{
+      transform: scale(1.5);
+      transition: transform 0.5s ease; 
+
+
+    }
+    
+.card-bodyy{
+      height: 15px
+}
+
+
+ 
+    .card-img, .card-img-bottom, .card-img-top {
+      width: 100px;
+      height: 150px;
+    }
+    .magnifier-covers{
+      object-fit: cover;
+      width:50%;
+      height:50%;
+    }
+    .card-bodys {
+      height: 150px
+    }
+   
+      
+    .grid-container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    
+    .grid-row {
+      display: flex;
+    }
+    
+    .grid-item {
+      flex: 1; /* Allow grid items to occupy equal width within the row */
+    
+    }
+    
+
+   /* Estilo para la clase 'my-body' */
+.my-body {
+margin: 0px;
+padding: 0px;
+}
+
+.orquidea{
+
+      width:300%;
+      height:100%;
+      margin: 50px;
+padding: 10px;
+
+}
+.card-text{
+  color: #ad4c5f;
+  fill: #ad4c5f;
+  
+  font-weight: 700;
+}
+.card-title{
+  font-family: "PT Sans Narrow",sans-serif;
+  color: #ad4c5f;
+}
+.body, .font-body {
+  font-size: 14px;
+}
+footer {
+  background-color: #EDE6DA;
+  padding: 20px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-item {
+  text-align: center;
+  padding: 10px;
+  color: #ad4c5f;
+  fill: #ad4c5f;
+  /* Agrega estilos adicionales según tus necesidades */
+}
+/* Establecer un ancho y alto máximo para el slider */
+.swiper-container {
+ 
+    max-width: 1200px; /* Limita el ancho del contenido a 1200px */
+    margin: 0 auto; /* Centra el contenido en la página */
+    padding: 20px; /* Agrega un espacio interno de 20px al contenido */
+  }
+
+
+/* Establecer un ancho y alto máximo para las imágenes dentro del slide */
+.swiper-slide img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover; /* La imagen se ajustará manteniendo la relación de aspecto y cubriendo todo el contenedor */
+}
+
+
+
+
+
+
+
+.productos {
+  max-width: 1200px;
+ 
+  padding: 20px;
+  
+  
+
+}
+
+.destacados {
+  font-size: 20px;
+  font-family: "PT Sans Narrow", sans-serif;
+  color: #ad4c5f;
+  border-bottom: 2px solid #ad4c5f;
+}
+.principal{
+  padding: 50px;
+}
+
+.btn-btn-outline-warning-dropdown-toggle-ml-auto {
+  position: relative 1000; }
+
